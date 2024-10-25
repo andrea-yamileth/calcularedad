@@ -1,2 +1,2 @@
-# calcularedad
-este programa sirve para calcular la edad
+# CalcularEdad
+Este programa sirve para calcular la edad
